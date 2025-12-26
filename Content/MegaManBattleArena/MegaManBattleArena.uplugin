@@ -1,0 +1,18 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0.0",
+    "FriendlyName": "Mega Man Battle Arena",
+    "Description": "A Mega Man-style boss rush experience for UEFN featuring 8 Robot Masters from Mega Man 1 and 2",
+    "Category": "Fortnite Creative",
+    "CreatedBy": "Rockmanite Studios",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": true,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": []
+}
